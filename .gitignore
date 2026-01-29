@@ -1,0 +1,33 @@
+# Laravel .gitignore
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+/.vagrant
+/coverage
+.DS_Store
+Thumbs.db
+.htaccess
+
+# Composer
+/vendor/
+composer.phar
+composer.lock
+
+# Laravel specific
+bootstrap/cache/*
+.env
+.env.*.local
+.storage
+database/database.sqlite
