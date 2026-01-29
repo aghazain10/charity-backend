@@ -60,6 +60,7 @@ Start the server
 
 bash
 php artisan serve
+
 🔧 API Documentation
 Authentication Endpoints
 POST /api/register - Register new user
@@ -89,28 +90,7 @@ GET /api/donations - List user donations
 🧪 Testing
 bash
 php artisan test
-📁 Project Structure
-text
-app/
-├── Http/
-│ ├── Controllers/
-│ │ ├── Api/ # API controllers
-│ │ └── Web/ # Web controllers
-│ ├── Middleware/ # Custom middleware
-│ └── Requests/ # Form requests
-├── Models/ # Eloquent models
-├── Services/ # Business logic
-└── Providers/ # Service providers
 
-database/
-├── migrations/ # Database migrations
-├── seeders/ # Database seeders
-└── factories/ # Model factories
-
-routes/
-├── api.php # API routes
-├── web.php # Web routes
-└── console.php # Artisan commands
 🚀 Deployment
 Production environment setup
 
@@ -130,7 +110,7 @@ Configure web server (Nginx/Apache)
 This project is open-source and available under the MIT License.
 
 👤 Author
-Your Name
+Zain Rizvee
 
 GitHub: @aghazain10
 
