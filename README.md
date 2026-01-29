@@ -8,8 +8,7 @@ A fully-featured charity donation platform built with Laravel 10, Sanctum, and M
 - **Campaign Management** (CRUD operations)
 - **Donation System** with payment integration
 - **API Endpoints** for frontend consumption
-- **Admin Dashboard** (if applicable)
-- **Email Notifications**
+- **Email Notifications** (For donations and campaign updates, password resets)
 - **File Uploads** for campaign images
 
 ## 📋 Requirements
@@ -133,8 +132,6 @@ This project is open-source and available under the MIT License.
 👤 Author
 Your Name
 
-GitHub: @yourusername
+GitHub: @aghazain10
 
-Portfolio: yourportfolio.com
-
-LinkedIn: Your LinkedIn
+LinkedIn: https://www.linkedin.com/in/syed-zain-mujtaba/
